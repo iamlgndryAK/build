@@ -30,3 +30,7 @@ g) !buildozer init
 h) !buildozer -v android debug
 
 i) !buildozer android clean
+
+
+
+python3,kivy==2.1.0,kivymd,pillow,kivy_garden,paho-mqtt,ssl,cert
